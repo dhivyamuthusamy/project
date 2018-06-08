@@ -1,10 +1,5 @@
-package Student;
+package project;
 
 public interface Travel {
-	
-	public void getSpeed();
-	public void getColor();
-	
-	
-
+public  int getspeed();//abstract method
 }
